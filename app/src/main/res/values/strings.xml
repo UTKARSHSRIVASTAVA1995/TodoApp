@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Todo</string>
+    <string name="set_Reminder">Set Reminder</string>
+</resources>
